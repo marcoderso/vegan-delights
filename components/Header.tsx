@@ -17,7 +17,7 @@ const Header = () => {
             href="/"
             className="relative w-[100px] h-[40px] xl:w-[120px] xl:h-[40px] z-[60]"
           >
-            <Image src="/assets/logo.svg" fill alt="" className="object-contain" />
+            <Image src="/assets/Vegan-Delights.png" fill alt="" className="object-contain" />
           </Link>
 
           {/* nav trigger btn */}
