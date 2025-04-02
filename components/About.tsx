@@ -9,21 +9,21 @@ import Image from "next/image";
 const data = [
   {
     imgSrc: "/assets/about/photo-1.jpg",
-    title: "Our Journey",
+    title: "Unsere Reise",
     description:
-      "Founded in 2000, Zenbrew started as a small café with a vision for exceptional coffee. Now a beloved brand, we're known for quality and sustainability. Driven by passion, we create memorable coffee experiences. Join us in exploring coffee, one cup at a time.",
+      "Vegan Delights begann als kleine Idee: vegane Kuchen und Desserts, die nicht nur gut für dich sind – sondern auch unglaublich gut schmecken. Heute sind wir eine feste Größe für alle, die Genuss und Nachhaltigkeit verbinden möchten. Mit Leidenschaft und viel Liebe zum Detail zaubern wir süße Momente, die in Erinnerung bleiben. Begleite uns auf unserer Reise – Stück für Stück, Genuss für Genuss.",
   },
   {
     imgSrc: "/assets/about/photo-2.jpg",
-    title: "Our Promise",
+    title: "Unser Versprechen",
     description:
-      "At Zenbrew, we promise the finest coffee with a positive impact. We source beans from sustainable farms, respecting people and the planet. Our meticulous roasting ensures a rich, satisfying experience. We are committed to quality, sustainability, and community.",
+      "Bei Vegan Delights stehen Genuss und Verantwortung im Einklang. Wir verwenden ausschließlich ausgewählte, pflanzliche Zutaten aus nachhaltiger Herkunft – im Einklang mit Mensch, Tier und Umwelt. Mit viel Liebe zum Detail entstehen bei uns feinste Kuchen und Desserts, die nicht nur schmecken, sondern auch ein gutes Gefühl hinterlassen. Unser Anspruch: höchste Qualität, gelebte Nachhaltigkeit und ein starkes Miteinander.",
   },
   {
     imgSrc: "/assets/about/photo-3.jpg",
-    title: "Our Team",
+    title: "Unser Team",
     description:
-      "At Zenbrew, our dedicated team is behind every great cup. Our skilled baristas and expert roasters work with passion and precision, making each coffee experience special. Meet the people who bring creativity and care to every cup and learn their unique stories.",
+      "Hinter jedem Stück Kuchen und jedem Dessert steht bei Vegan Delights ein kleines, aber leidenschaftliches Team. Wir sind zu dritt – und teilen eine große Liebe für vegane Backkunst, hochwertige Zutaten und kreative Rezeptideen. Gemeinsam setzen wir alles daran, dir mit jedem Stück ein genussvolles Erlebnis zu bieten – ehrlich, pflanzlich und mit viel Liebe gemacht.",
   },
 ];
 
