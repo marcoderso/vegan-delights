@@ -10,7 +10,8 @@ const Header = () => {
 
   return (
 <header className="absolute top-[40px] left-0 right-0 z-[60]">
-  <div className="relative px-4 sm:px-8 xl:px-12">
+      <div className="container mx-auto">
+        <div className="flex justify-between items-center">
 
           {/* nav trigger btn */}
           <button
