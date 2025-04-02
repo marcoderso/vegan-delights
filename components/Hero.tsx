@@ -16,7 +16,7 @@ const Hero = () => {
         className="absolute top-0 left-0 w-full h-full object-cover"
       >
         <source src="/assets/hero/video.mp4" type="video/mp4" />
-        Your browser does not support the video tag.
+        Dein Browser unterstützt das Video leider nicht :'(
       </video>
       <div className="container mx-auto h-full flex flex-col xl:flex-row items-center z-30 relative">
         {/* text */}
@@ -29,16 +29,16 @@ const Hero = () => {
           <div className="flex flex-col items-center">
             <Badge containerStyles="hidden xl:flex xl:w-[180px] xl:h-[180px]" />
             <h1 className="h1 text-white">
-              <span className="text-accent">Coffee</span> & Joy
+              <span className="text-accent">Cake</span> & Dessert
             </h1>
           </div>
           {/* separator */}
           <Separator />
           <p className="lead font-light max-w-[300px] md:max-w-[430px] xl:max-w-[560px] mb-4">
-            Experience the joy of exceptional coffee in our cozy space, where every cup is
-            crafted with passion and warmth
+            Erlebe die Freude an besonderen veganen Köstlichkeiten
+            In unserer liebevollen Backmanufaktur erwartet dich pure Genussfreude –
+            handgemacht, pflanzlich und mit ganz viel Herz serviert.
           </p>
-          <button className="btn">Our menu</button>
         </div>
       </div>
     </section>
