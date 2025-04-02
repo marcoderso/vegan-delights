@@ -41,7 +41,7 @@ const testimonials = [
 
 const Testimonials = () => {
   return (
-   <section className="min-h-[70vh] md:min-h-[60vh] xl:min-h-[70vh]">
+  <section className="py-20 md:py-28 xl:py-32">
   <div className="container mx-auto flex items-center">
     <Swiper navigation={true} modules={[Navigation]} className="h-auto min-h-[400px]">
       {testimonials.map((person, index) => (
