@@ -36,6 +36,7 @@ const Hero = () => {
           <Separator />
           <p className="lead font-light max-w-[300px] md:max-w-[430px] xl:max-w-[560px] mb-4">
             Erlebe die Freude an besonderen veganen Köstlichkeiten
+            
             In unserer liebevollen Backmanufaktur erwartet dich pure Genussfreude –
             handgemacht, pflanzlich und mit ganz viel Herz serviert.
           </p>
