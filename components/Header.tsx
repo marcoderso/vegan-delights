@@ -15,7 +15,7 @@ const Header = () => {
           {/* logo */}
           <Link
             href="/"
-            className="relative w-[100px] h-[40px] xl:w-[120px] xl:h-[40px] z-[60]"
+            className="relative w-[300px] h-[120px] xl:w-[360px] xl:h-[120px] z-[60]"
           >
             <Image src="/assets/Vegan-Delights.png" fill alt="" className="object-contain" />
           </Link>
