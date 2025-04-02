@@ -15,21 +15,21 @@ import { IoMdQuote } from "react-icons/io";
 const testimonials = [
   {
     message:
-      "The coffee here is absolutely amazing! The baristas are skilled and the atmosphere is perfect for both work and relaxation.",
-    name: "Alice Johnson",
-    profession: "Graphic Designer",
+      "Wow! Und der war wirklich vegan? Unglaublich! Ich habe noch nie so leckeren Kuchen gegessen - dabei bin ich selbst Bäcker!",
+    name: "Fabian Marc Mellin",
+    profession: "Ist eigentlich kein Bäcker.",
   },
   {
     message:
-      "I love coming to this cafe. The pastries are always fresh, and the staff is incredibly friendly. It's my go-to spot for meetings.",
-    name: "Michael Lee",
-    profession: "Freelance Writer",
+      "Also ich muss wirklich sagen, dass das die beste vegane Backmanufaktur in ganz Deutschland ist. Den Rest kannste eigentlich vergessen.",
+    name: "Jodie Alice Jahn",
+    profession: "Undercover Verkosterin für vegane Backmanufakturen",
   },
   {
     message:
-      "A hidden gem! The ambiance is cozy, and the menu offers a great variety. The chai latte is a must-try!",
-    name: "Samantha Green",
-    profession: "Marketing Specialist",
+      "Hä, check ich jetzt nicht. ICH soll eine Bewertung schreiben? Aber das ist doch eigentlich mein eigenes Projekt, das macht doch gar keinen Sinn.",
+    name: "Jessica Friedrich",
+    profession: "Anmerkung der Redaktion: Diese Bewertung NICHT posten.",
   },
 ];
 
