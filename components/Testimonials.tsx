@@ -31,6 +31,12 @@ const testimonials = [
     name: "Jessica Friedrich",
     profession: "Anmerkung der Redaktion: Diese Bewertung NICHT posten.",
   },
+    {
+    message:
+      "Also jetzt ist meine Laune voll gut. Bei Gott sogar. Aber ich hab halt gerade ein Stück kuchen gegessen. Aber ich hab halt gerade ein Stück kuchen gegessen. Also voll gut. Aber die anderen, ja.. ne.. gibt halt paar Leute die bisschen verbittert sind. Die gerade kein Stück Kuchen hatten. Schade für sie.",
+    name: "Unbekannt",
+    profession: "Kommt eigentlich gerade vom Feiern.",
+  },
 ];
 
 const Testimonials = () => {
