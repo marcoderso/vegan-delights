@@ -14,7 +14,7 @@ const Explore = () => {
               text={{
                 title: "Hausgemachte Kuchenklassiker",
                 description:
-                  "Gönn dir den vollmundigen Geschmack unserer liebevoll gebackenen veganen Kuchen. Perfekt für eine kleine Auszeit oder den gemütlichen Nachmittag.",
+                  "Gönn dir den vollmundigen Geschmack unserer veganen Kuchen. Perfekt für eine kleine Auszeit oder den gemütlichen Nachmittag.",
               }}
             />
             {/* item 2 */}
