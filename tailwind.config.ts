@@ -30,7 +30,7 @@ const config: Config = {
           DEFAULT: "#787f8a",
         },
         accent: {
-          DEFAULT: "#c7a17a",
+          DEFAULT: "#4e6d4b",
           hover: "#a08161",
         },
       },
