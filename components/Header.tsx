@@ -11,17 +11,6 @@ const Header = () => {
   return (
 <header className="absolute top-[40px] left-0 right-0 z-[60]">
   <div className="relative px-4 sm:px-8 xl:px-12">
-    <Link
-      href="/"
-      className="absolute left-0 top-0 w-[300px] h-[120px] xl:w-[360px] xl:h-[120px] z-[60]"
-    >
-      <Image
-        src="/assets/Vegan-Delights.png"
-        fill
-        alt="Vegan Delights Logo"
-        className="object-contain"
-      />
-    </Link>
 
           {/* nav trigger btn */}
           <button
