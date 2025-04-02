@@ -27,7 +27,7 @@ const Footer = () => {
         <div className="flex flex-col items-center justify-center gap-14">
           {/* logo */}
           <Link href="/" className="relative w-[120px] h-[50px] mx-auto">
-            <Image src="/assets/logo.svg" fill alt="" className="object-contain" />
+            <Image src="/assets/Vegan-Delights.png" fill alt="" className="object-contain" />
           </Link>
           {/* nav */}
           <nav className="flex flex-col xl:flex-row gap-8 xl:gap-12 justify-center items-center">
