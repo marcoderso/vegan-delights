@@ -12,9 +12,9 @@ const Explore = () => {
               itemCSS="xl:text-right xl:items-end"
               icon="coffee-1.svg"
               text={{
-                title: "Rich Espresso Blends",
+                title: "Hausgemachte Kuchenklassiker",
                 description:
-                  "Indulge in the deep, robust flavors of our expertly crafted espresso blends. Perfect for a quick pick-me-up or a leisurely afternoon treat.",
+                  "Gönn dir den vollmundigen Geschmack unserer liebevoll gebackenen veganen Kuchen. Perfekt für eine kleine Auszeit oder den gemütlichen Nachmittag.",
               }}
             />
             {/* item 2 */}
@@ -22,9 +22,9 @@ const Explore = () => {
               itemCSS="xl:text-right xl:items-end"
               icon="coffee-2.svg"
               text={{
-                title: "Classic Drip Coffee",
+                title: "Vegane Dessertkreationen",
                 description:
-                  "Enjoy the comforting taste of our classic drip coffee, brewed to perfection. A timeless choice for coffee enthusiasts who appreciate simplicity.",
+                  "Ob cremig, fruchtig oder schokoladig – unsere Desserts begeistern mit Geschmack und Fantasie. Für alle, die das Besondere lieben.",
               }}
             />
           </div>
@@ -48,9 +48,9 @@ const Explore = () => {
               itemCSS="xl:text-left items-start"
               icon="coffee-3.svg"
               text={{
-                title: "Smooth Cold Brews",
+                title: "Erfrischende Kühlgenüsse",
                 description:
-                  "Refresh yourself with our smooth and invigorating cold brew options. Ideal for those warm days when you need a cool, caffeinated boost.",
+                  "Unsere kalten Dessert-Highlights sorgen für eine süße Erfrischung an warmen Tagen – natürlich 100 % pflanzlich.",
               }}
             />
             {/* item 4 */}
@@ -58,9 +58,9 @@ const Explore = () => {
               itemCSS="xl:text-left items-start"
               icon="coffee-4.svg"
               text={{
-                title: "Flavorful Latte Varieties",
+                title: "Feine Geschmackskompositionen",
                 description:
-                  "Experience the rich and creamy flavors of our diverse latte selections. From vanilla to caramel, we have a latte to suit every taste.",
+                  "Von zarter Vanille bis hin zu intensivem Espresso – entdecke unsere wechselnden Geschmackssorten. Immer mit Sorgfalt ausgewählt und vegan verfeinert.",
               }}
             />
           </div>
