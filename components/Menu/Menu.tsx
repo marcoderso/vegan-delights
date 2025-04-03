@@ -3,65 +3,66 @@ import MenuItem from "./MenuItem";
 
 const menuItems = [
   {
-    imgSrc: "/assets/menu/coffee-1.png",
-    name: "Espresso",
-    description: "Rich and bold shot of coffee",
-    price: 3.3,
+    imgSrc: "/assets/menu/lemon-tart.png",
+    name: "Zitronen-Tarte",
+    description: "Fruchtig-frisch mit knusprigem Dinkelmürbeteig",
+    price: 3.9,
   },
   {
-    imgSrc: "/assets/menu/coffee-2.png",
-    name: "Cappuccino",
-    description: "Espresso with steamed milk and foam",
-    price: 4.5,
-  },
-  {
-    imgSrc: "/assets/menu/coffee-3.png",
-    name: "Latte",
-    description: "Espresso with steamed milk",
+    imgSrc: "/assets/menu/coconut-cupcake.png",
+    name: "Kokos-Cupcake",
+    description: "Saftiger Teig mit cremigem Kokosfrosting",
     price: 4.2,
   },
   {
-    imgSrc: "/assets/menu/coffee-4.png",
-    name: "Americano",
-    description: "Espresso with hot water",
-    price: 3.5,
+    imgSrc: "/assets/menu/apple-crumble.png",
+    name: "Apfel-Crumble im Glas",
+    description: "Warmer Apfelgenuss mit Zimt, Mandeln & Streuseln",
+    price: 4.8,
   },
   {
-    imgSrc: "/assets/menu/coffee-5.png",
-    name: "Mocha",
-    description: "Espresso with chocolate and steamed milk",
+    imgSrc: "/assets/menu/raspberry-blossom.png",
+    name: "Himbeer-Rosen-Schnitte",
+    description: "Zart und fruchtig mit Blütenaroma",
+    price: 4.5,
+  },
+  {
+    imgSrc: "/assets/menu/cheesecake.png",
+    name: "Beeren-Cheesecake",
+    description: "Cremig auf Cashewbasis, verfeinert mit Beeren",
+    price: 5.0,
+  },
+  {
+    imgSrc: "/assets/menu/chia-choco.png",
+    name: "Chia-Schoko-Cupcake",
+    description: "Mit Zartbitterschokolade und Chiasamen",
+    price: 4.3,
+  },
+  {
+    imgSrc: "/assets/menu/matcha-donut.png",
+    name: "Matcha-Donut",
+    description: "Ofengebacken, glasiert & überraschend leicht",
+    price: 3.7,
+  },
+  {
+    imgSrc: "/assets/menu/tiramisu.png",
+    name: "Kof-Tiramisu",
+    description: "Mit Espresso getränktem Biskuit & Mandelcreme",
     price: 5.4,
   },
   {
-    imgSrc: "/assets/menu/coffee-1.png",
-    name: "Macchiato",
-    description: "Espresso with a dollop of foam",
-    price: 3.75,
+    imgSrc: "/assets/menu/chocolate-mousse.png",
+    name: "Schoko-Mousse",
+    description: "Luftig-locker mit Avocado und Dattel-Süße",
+    price: 4.6,
   },
   {
-    imgSrc: "/assets/menu/coffee-2.png",
-    name: "Flat White",
-    description: "Espresso with microfoam milk",
-    price: 4.25,
+    imgSrc: "/assets/menu/peanut-brownie.png",
+    name: "Peanut Brownie",
+    description: "Intensiv schokoladig mit Erdnusskernen & Meersalz",
+    price: 4.9,
   },
-  {
-    imgSrc: "/assets/menu/coffee-3.png",
-    name: "Iced Coffee",
-    description: "Chilled coffee over ice",
-    price: 3.75,
-  },
-  {
-    imgSrc: "/assets/menu/coffee-4.png",
-    name: "Affogato",
-    description: "Espresso shot over vanilla ice cream",
-    price: 5.5,
-  },
-  {
-    imgSrc: "/assets/menu/coffee-5.png",
-    name: "Irish Coffee",
-    description: "Coffee with Irish whiskey and cream",
-    price: 6.5,
-  },
+
 ] as const;
 
 const Menu = () => {
@@ -69,14 +70,12 @@ const Menu = () => {
     <section className="pt-12 pb-16 xl:pt-16 xl:pb-36">
       <div className="container mx-auto">
         <div className="flex flex-col gap-4 mb-12 xl:mb-24">
-          <h2 className="h2 text-center">Our Menu</h2>
+          <h2 className="h2 text-center">Unser Menü</h2>
           <div className="mb-4">
             <Separator bg="accent" />
           </div>
           <p className="text-center max-w-[620px] mx-auto">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis repellat
-            culpa voluptate nisi, magnam consectetur atque harum laborum maxime
-            voluptatum!
+            Entdecke unsere Auswahl an handgemachten, pflanzlichen Köstlichkeiten – 100 % vegan, 100 % mit Liebe gebacken.
           </p>
         </div>
         {/* menu & btn */}
